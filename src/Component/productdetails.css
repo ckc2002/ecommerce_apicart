@@ -1,0 +1,21 @@
+.conatiner {
+    display: flex;   
+    margin: 35px 30px 2px 20px;
+}
+
+.image-section{
+    width: 30rem;
+    padding: 10px 20px ;
+    border: 1px solid gray;
+}
+
+.image-section img{
+    height: 470px;
+    width: 100%;
+}
+
+.details-section{
+    padding: 20px 35px ;
+    width: 45rem;
+    
+}

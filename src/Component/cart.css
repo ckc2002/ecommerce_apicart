@@ -1,0 +1,47 @@
+.cart-container {
+  margin: 15px 25px;
+}
+
+.cart-box {
+  margin-top: 10px;
+}
+
+.product-cart-conatiner {
+  display: flex;
+  align-items: center;
+  padding: 10px 30px;
+}
+
+.product-img {
+  width: 140px;
+  height: 130px;
+}
+
+.product-name h3{
+    font-size: 20px;
+}
+
+.product-img img {
+  width: 100%;
+  height: 100%;
+}
+
+.product-name,
+.cart-product-price,
+.quantity {
+  width: 20%;
+  padding: 5px 10px;
+}
+
+.icon-remove:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.inc-counter-btn:hover{
+    background-color: green;
+}
+
+.dec-counter-btn:hover{
+    background-color: red;
+}
